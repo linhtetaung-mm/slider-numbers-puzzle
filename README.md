@@ -4,10 +4,10 @@ Slider Numbers Puzzle(solving algorithm)
 App: Brain Training - Logic Puzzles (not my app)
 My Name - Lin Htet Aung
 
-About Game: 5x5 frame, 25 numbers included, To arrange them successfully
-Movements - Right, Left, Up, Down (numbers in Row, Column will circulate)
+About Game: 5x5 frame, 25 numbers included, To arrange them successfully . 
+Movements - Right, Left, Up, Down (numbers in Row, Column will circulate) . 
 
-My Algorithm's Advantages => flexible, not overloading, Human-like plays
+My Algorithm's Advantages => flexible, not overloading, Human-like plays; 
 God's Number 			        => 80 moves (just assuming);
 Disadvantages			        => In {function lastRow()} ,  one or two moves are reducible
                              And if you want to PLAY 6rows, 6cols or 7rows, 6cols, etc....
